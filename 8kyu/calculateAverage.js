@@ -1,5 +1,6 @@
 function find_average(array) {
-    let sum = 0;
+  //comment 
+  let sum = 0;
    for (i = 0; i< array.length; i++){
     sum += array[i]
    }
